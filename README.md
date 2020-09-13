@@ -1,4 +1,4 @@
-# Default starter for Gridsome
+# Default starter for Gridsome's
 
 This is the project you get when you run `gridsome create new-project`.
 
